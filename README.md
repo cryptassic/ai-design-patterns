@@ -11,6 +11,8 @@ This project serves as a **personal dojo platform** for implementing AI design p
   - [LangChain](src/ai_design_patterns/parallel/langchain_parallel.py)
 - **[Routing](src/ai_design_patterns/routing/)**
   - [LCEL LangChain](src/ai_design_patterns/routing/LCEL_langchain_routing.py)
+- **[Reflection](src/ai_design_patterns/reflection/)**
+  - [LangChain](src/ai_design_patterns/reflection/langchain_reflection.py)
 
 ## Setup
 
