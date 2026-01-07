@@ -15,6 +15,8 @@ This project serves as a **personal dojo platform** for implementing AI design p
   - [LangChain](src/ai_design_patterns/reflection/langchain_reflection.py)
 - **[Tool Use](src/ai_design_patterns/tool_use/)**
   - [LangChain](src/ai_design_patterns/tool_use/langchain_tools.py)
+- **[Plan and Execute](src/ai_design_patterns/planning/plan_n_execute)**
+  - [LangChain](src/ai_design_patterns/planning/plan_n_execute/main.py)
 
 ## Setup
 
